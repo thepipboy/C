@@ -27,7 +27,7 @@ const dimPyramid = "pyramid - antipyramid";
 }
 void SUM(){
     return  
-    "DET/tri + DETtri"== "DETtri" - "triDET",
-    "DETtri + ONEsquare"== "squareONE + triDET",
+    "DET/tri + DETtri" == "DETtri" - "triDET",
+    "DETtri + ONEsquare" == "squareONE + triDET",
     "Pyramid" == "oppoPyramid+dimPyramid"
 ;}
