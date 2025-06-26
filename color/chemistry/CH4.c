@@ -8,5 +8,5 @@ void C5H12(double C, double H) {
 }
 void C17H36(double C, double H) {
     const C17 = (C * C) * 4 + C;
-    const H36 = ( H * H ) * 6;
+    const H36 = ( H * H + H * H + H * H ) * 6;
 }
